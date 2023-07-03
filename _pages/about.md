@@ -24,13 +24,13 @@ I am a third-year Ph.D. candidate at Zhejiang University. I am working on encryp
 - *2023.07*: &nbsp;🎉🎉 My paper "Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption" is accepted by VLDB 2023.
 
 # 📝 Publications 
-- [Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption], Xinle Cao, Jian Liu, Yongsheng Shen, Xiaohua Ye, Kui Ren, **VLDB 2023**
+- Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption, Xinle Cao, Jian Liu, Yongsheng Shen, Xiaohua Ye, Kui Ren, **VLDB 2023**
 - [Cryptanalysis of An Encrypted Database in SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf), Xinle Cao, Jian Liu, Hao Lu, **VLDB 2021**
-- [Zero knowledge contingent payments for trained neural networks], Zhelei Zhou, Xinle Cao, Jian Liu, Bingsheng Zhang, Kui Ren, **ESORICS 2021**
+- [Zero knowledge contingent payments for trained neural networks](https://link.springer.com/chapter/10.1007/978-3-030-88428-4_31), Zhelei Zhou, Xinle Cao, Jian Liu, Bingsheng Zhang, Kui Ren, **ESORICS 2021**
 
 # 📖 Educations
 - *2021.06 - 2023.07 (now)*, Zhejiang University, College of Computer Science and Technology, Cyberspace Security, Ph.D. candidate.
 - *2016.09 - 2020.06*, Zhejiang University, School of Mathematics Science, Information and Computing Science, Bachelor.
 
 # 💻 Ongoing work
-- *2022.12 - 2023.07 (now)*, I am collaborating with [Dmytro Bogatov](https://dbogatov.org/) to work for new OPE schemes.
+- *2022.12 - 2023.07 (now)*, I am working on designing new OPE schemes.
