@@ -9,7 +9,7 @@
 title                    : "Xinle Cao"
 description              : "\"Failure runs through the entire process, which is life. \""
 repository               : "XinleCao/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  G-C015ECEE05
