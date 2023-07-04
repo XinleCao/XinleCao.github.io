@@ -25,7 +25,7 @@ I am a third-year Ph.D. candidate at Zhejiang University. I am working on encryp
 
 # 📝 Publications 
 - Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption, Xinle Cao, Jian Liu, Yongsheng Shen, Xiaohua Ye, Kui Ren, **VLDB 2023**
-- [Cryptanalysis of An Encrypted Database in SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf) <strong><span class='show_paper_citations' data='2JKA6WAAAAAJ:d1gkVwhDpl0C'></span></strong>, Xinle Cao, Jian Liu, Hao Lu, **VLDB 2021**
+- [Cryptanalysis of An Encrypted Database in SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf)<a href='https://scholar.google.com/citations?user=2JKA6WAAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, Xinle Cao, Jian Liu, Hao Lu, **VLDB 2021**
 - [Zero knowledge contingent payments for trained neural networks](https://link.springer.com/chapter/10.1007/978-3-030-88428-4_31) <strong><span class='show_paper_citations' data='2JKA6WAAAAAJ:9yKSN-GCB0IC'></span></strong>, Zhelei Zhou, Xinle Cao, Jian Liu, Bingsheng Zhang, Kui Ren, **ESORICS 2021**
 
 # 📖 Educations
