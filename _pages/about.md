@@ -24,7 +24,7 @@ I am a third-year Ph.D. candidate at Zhejiang University. I am working on encryp
 - *2023.07*: &nbsp;🎉🎉 My paper "Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption" is accepted by VLDB 2023.
 
 # 📝 Publications 
-- ``VLDB 2023`` Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption, **Xinle Cao**, Jian Liu, Yongsheng Shen, Xiaohua Ye, Kui Ren
+- ``VLDB 2023`` [Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122), **Xinle Cao**, Jian Liu, Yongsheng Shen, Xiaohua Ye, Kui Ren
 - ``VLDB 2021`` [Cryptanalysis of An Encrypted Database in SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf), **Xinle Cao**, Jian Liu, Hao Lu, Kui Ren
 - ``ESORICS 2021`` [Zero knowledge contingent payments for trained neural networks](https://link.springer.com/chapter/10.1007/978-3-030-88428-4_31) <strong><span class='show_paper_citations' data='2JKA6WAAAAAJ:9yKSN-GCB0IC'></span></strong>, Zhelei Zhou, **Xinle Cao**, Jian Liu, Bingsheng Zhang, Kui Ren
 
