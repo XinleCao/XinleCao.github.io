@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "The homepage of Xinle Cao"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate at Zhejiang University. I am working on encrypted databases especially those applying Order-preserving Encryption (OPE) and Oblivious RAM (ORAM). I am concerned about the security, efficiency, and functionality of encrypted databases. My research interest includes a wide range of directions, e.g., MPC, DP, and HE. I am open to all forms of collaboration. Please feel free to reach me if I can help you.
+I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encrypted databases especially those applying Order-preserving Encryption (OPE) and Oblivious RAM (ORAM). I am concerned about the security, efficiency, and functionality of encrypted databases. My research interest includes a wide range of directions, e.g., MPC, DP, and HE. I am open to all forms of collaboration. Please feel free to reach me if I can help you.
 
 
 # 🔥 News
@@ -33,4 +33,5 @@ I am a third-year Ph.D. candidate at Zhejiang University. I am working on encryp
 - *2016.09 - 2020.06*, Zhejiang University, School of Mathematics Science, Information and Computing Science, Bachelor.
 
 # 💻 Ongoing work
-- *2022.12 - 2023.07 (now)*, I am working on designing new OPE schemes.
+- *2022.12 - 2023.10 (now)*, I am working on designing new OPE schemes.
+- *2023.08 - 2023.10 (now)*, I am interested in secure and private data mining.
