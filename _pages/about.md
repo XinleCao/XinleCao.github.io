@@ -33,5 +33,5 @@ I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encry
 - *2016.09 - 2020.06*, Zhejiang University, School of Mathematics Science, Information and Computing Science, Bachelor.
 
 # 💻 Ongoing work
-- *2022.12 - 2023.10 (now)*, I am working on designing new OPE schemes.
-- *2023.08 - 2023.10 (now)*, I am interested in secure and private data mining.
+- *2022.12 - 2023.12 (now)*, I am working on designing new ORE schemes.
+- *2023.12 - now*, I am working on some interesting questions about this paper: 'Compressed Oblivious Encoding for Homomorphically Encrypted Search'.
