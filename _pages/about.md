@@ -35,3 +35,10 @@ I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encry
 # 💻 Ongoing work
 - *2022.12 - 2023.12 (now)*, I am working on designing new ORE schemes.
 - *2023.12 - now*, I am working on some interesting questions about this paper: 'Compressed Oblivious Encoding for Homomorphically Encrypted Search'.
+
+# 🍓 Friends
+Recommend some of my friends. They are talented and amazing!
+- ``Dalao``[Rui Zhang](https://scholar.google.com/citations?hl=en&user=pPgsfogAAAAJ)
+- ``ddw!!!``[E0](https://e0hyl.github.io/)
+- ``My dear engineer (笑)``[Hao Lu](https://scholar.google.com/citations?user=Av_2Z_EAAAAJ&hl=en)
+- ``My best gifted junior female schoolmate``[🐳](https://eprint.iacr.org/2022/1401)
