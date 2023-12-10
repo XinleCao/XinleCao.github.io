@@ -41,5 +41,5 @@ Recommend some of my friends. They are talented and amazing!
 - ``Dalao``[Rui Zhang](https://scholar.google.com/citations?hl=en&user=pPgsfogAAAAJ)
 - ``ddw!!!``[E0](https://e0hyl.github.io/)
 - ``My dear engineer (笑)``[Hao Lu](https://scholar.google.com/citations?user=Av_2Z_EAAAAJ&hl=en)
-- ``The cryptographer (He is my friend!!!)``[Zhelei](https://zheleizhou.github.io/)
+- ``The cryptographer (真不敢相信我能和cryptographer做朋友，再笑)``[Zhelei](https://zheleizhou.github.io/)
 - ``My best gifted junior female schoolmate``[🐳](https://eprint.iacr.org/2022/1401)
