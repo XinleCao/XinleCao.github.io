@@ -30,11 +30,10 @@ I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encry
 - ``ESORICS 2021`` [Zero knowledge contingent payments for trained neural networks](https://link.springer.com/chapter/10.1007/978-3-030-88428-4_31) <strong><span class='show_paper_citations' data='2JKA6WAAAAAJ:9yKSN-GCB0IC'></span></strong>, Zhelei Zhou, **Xinle Cao**, Jian Liu, Bingsheng Zhang, Kui Ren
 
 # 📖 Educations
-- *2020.09 - 2023.07 (now)*, Zhejiang University, College of Computer Science and Technology, Cyberspace Security, Ph.D. candidate.
+- *2020.09 - 2024.02 (now)*, Zhejiang University, College of Computer Science and Technology, Cyberspace Security, Ph.D. candidate.
 - *2016.09 - 2020.06*, Zhejiang University, School of Mathematics Science, Information and Computing Science, Bachelor.
 
 # 💻 Ongoing work
-- *2022.12 - 2023.12 (now)*, I am working on designing new ORE schemes.
 - *2023.12 - now*, I am working on some interesting questions about this paper: 'Compressed Oblivious Encoding for Homomorphically Encrypted Search'.
 
 # 🍓 Friends
