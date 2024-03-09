@@ -20,7 +20,7 @@ I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encry
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 My paper "Secure and Practical Functional Dependency Discovery in Outsourced Databases" is accepted by ICDE 2023.
+- *2024.03*: &nbsp;🎉🎉 My paper "Secure and Practical Functional Dependency Discovery in Outsourced Databases" is accepted by ICDE 2024.
 - *2023.07*: &nbsp;🎉🎉 My paper "Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption" is accepted by VLDB 2023.
 
 # 📝 Publications 
