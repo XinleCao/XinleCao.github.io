@@ -20,14 +20,18 @@ I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encry
 
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 My paper "On the Interoperability of Encrypted Databases" is accepted by TDSC 2024.
 - *2024.03*: &nbsp;🎉🎉 My paper "Secure and Practical Functional Dependency Discovery in Outsourced Databases" is accepted by ICDE 2024.
 - *2023.07*: &nbsp;🎉🎉 My paper "Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption" is accepted by VLDB 2023.
 
-# 📝 Publications 
+# 📝 Publications (Conference)
 - ``ICDE 2024`` [Secure and Practical Functional Dependency Discovery in Outsourced Databases](https://eprint.iacr.org/2023/1969), **Xinle Cao**, Yuhan Li, Dmytro Bogatov, Jian Liu, Kui Ren
 - ``VLDB 2023`` [Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122), **Xinle Cao**, Jian Liu, Yongsheng Shen, Xiaohua Ye, Kui Ren
 - ``VLDB 2021`` [Cryptanalysis of An Encrypted Database in SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf), **Xinle Cao**, Jian Liu, Hao Lu, Kui Ren
 - ``ESORICS 2021`` [Zero knowledge contingent payments for trained neural networks](https://link.springer.com/chapter/10.1007/978-3-030-88428-4_31) <strong><span class='show_paper_citations' data='2JKA6WAAAAAJ:9yKSN-GCB0IC'></span></strong>, Zhelei Zhou, **Xinle Cao**, Jian Liu, Bingsheng Zhang, Kui Ren
+
+# 📝 Publications (Journal)
+- ``TDSC 2024`` [On the Interoperability of Encrypted Databases], **Xinle Cao**, Jian Liu, Hao Lu, Yan Liu, Weixin Liu, Tao Wei, Kui Ren
 
 # 📖 Educations
 - *2020.09 - 2024.02 (now)*, Zhejiang University, College of Computer Science and Technology, Cyberspace Security, Ph.D. candidate.
