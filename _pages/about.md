@@ -32,7 +32,7 @@ I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encry
 - ``ESORICS 2021`` [Zero knowledge contingent payments for trained neural networks](https://link.springer.com/chapter/10.1007/978-3-030-88428-4_31) <strong><span class='show_paper_citations' data='2JKA6WAAAAAJ:9yKSN-GCB0IC'></span></strong>, Zhelei Zhou, **Xinle Cao**, Jian Liu, Bingsheng Zhang, Kui Ren
 
 # 📝 Publications (Journal)
-- ``TDSC 2024`` [On the Interoperability of Encrypted Databases], **Xinle Cao**, Jian Liu, Hao Lu, Yan Liu, Weixin Liu, Tao Wei, Kui Ren
+- ``TDSC 2024`` [On the Interoperability of Encrypted Databases](https://ieeexplore.ieee.org/abstract/document/10588984), **Xinle Cao**, Jian Liu, Hao Lu, Yan Liu, Weixin Liu, Tao Wei, Kui Ren
 
 # 📖 Educations
 - *2020.09 - 2024.02 (now)*, Zhejiang University, College of Computer Science and Technology, Cyberspace Security, Ph.D. candidate.
