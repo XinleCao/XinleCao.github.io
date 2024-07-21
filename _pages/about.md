@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encrypted databases especially those applying Order-preserving Encryption (OPE) and Oblivious RAM (ORAM). I am concerned about the security, efficiency, and functionality of encrypted databases. My research interest includes a wide range of directions, e.g., MPC, DP, and HE. I am open to all forms of collaboration. Please feel free to reach me if I can help you.
+I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encrypted databases especially those applying order-preserving Encryption (OPE) oblivious RAM (ORAM), and functional encryption (FE). I am concerned about the security, efficiency, and functionality of encrypted databases. My research interest includes a wide range of directions, e.g., MPC, DP, and HE. I am open to all forms of collaboration. Please feel free to reach me if I can help you.
 
 
 # 🔥 News
