@@ -25,11 +25,12 @@ I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encry
 - *2023.07*: &nbsp;🎉🎉 My paper "Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption" is accepted by VLDB 2023.
 
 # 📝 Publications (Conference)
-- ``Under Submission`` [Towards Practical Oblivious Map] **Xinle Cao**, Weiqi Feng, Jian Liu, Jinjin Zhou, Wenjing Fang, Lei Wang, Quanqing Xu, Chuanhui Yang, Kui Ren
+- ``Under Submission`` [Reduce Leakages in Query Processing on Encrypted Multi-dimensional Data with Practicality] **Xinle Cao**, Weiqi Feng, Quanqing Xu, Chuanhui Yang, Jian Liu, Kui Ren (Co-first author with Weiqi)
+- ``VLDB 2025 Revision`` [Towards Practical Oblivious Map] **Xinle Cao**, Weiqi Feng, Jian Liu, Jinjin Zhou, Wenjing Fang, Lei Wang, Quanqing Xu, Chuanhui Yang, Kui Ren (Co-first author with Weiqi)
 - ``ICDE 2024`` [Secure and Practical Functional Dependency Discovery in Outsourced Databases](https://eprint.iacr.org/2023/1969), **Xinle Cao**, Yuhan Li, Dmytro Bogatov, Jian Liu, Kui Ren
 - ``VLDB 2023`` [Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122), **Xinle Cao**, Jian Liu, Yongsheng Shen, Xiaohua Ye, Kui Ren
 - ``VLDB 2021`` [Cryptanalysis of An Encrypted Database in SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf), **Xinle Cao**, Jian Liu, Hao Lu, Kui Ren
-- ``ESORICS 2021`` [Zero knowledge contingent payments for trained neural networks](https://link.springer.com/chapter/10.1007/978-3-030-88428-4_31) <strong><span class='show_paper_citations' data='2JKA6WAAAAAJ:9yKSN-GCB0IC'></span></strong>, Zhelei Zhou, **Xinle Cao**, Jian Liu, Bingsheng Zhang, Kui Ren
+- ``ESORICS 2021`` [Zero knowledge contingent payments for trained neural networks](https://link.springer.com/chapter/10.1007/978-3-030-88428-4_31) <strong><span class='show_paper_citations' data='2JKA6WAAAAAJ:9yKSN-GCB0IC'></span></strong>, Zhelei Zhou, **Xinle Cao**, Jian Liu, Bingsheng Zhang, Kui Ren (Co-first author with Weiqi)
 
 # 📝 Publications (Journal)
 - ``TDSC 2024`` [On the Interoperability of Encrypted Databases](https://ieeexplore.ieee.org/abstract/document/10588984), **Xinle Cao**, Jian Liu, Hao Lu, Yan Liu, Weixin Liu, Tao Wei, Kui Ren
@@ -51,6 +52,7 @@ Recommend some of my friends. They are talented and amazing!
 
 # 📃Reviewer
 - ``VLDB Journal``
+- ``ACM Transaction on Storage (TOS)``
 
 # 🎁Recommeded Videos
 - 机智的医生生活 （翼俊粉）
