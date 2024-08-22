@@ -49,7 +49,7 @@ Recommend some of my friends. They are talented and amazing!
 - ``My dear engineer (笑)``[Hao Lu](https://scholar.google.com/citations?user=Av_2Z_EAAAAJ&hl=en)
 - ``The cryptographer (真不敢相信我能和cryptographer做朋友，再笑)``[Zhelei](https://zheleizhou.github.io/)
 - ``My best gifted junior female schoolmate``[🐳](https://scholar.google.com/citations?user=BeAz0pMAAAAJ&hl=zh-CN)
-- ``hxd （全仰仗您！）``[Daokun](https://Dookoen.com)
+- ``hxd (全仰仗您!)``[Daokun](https://Dookoen.com)
 
 # 📃Reviewer
 - ``VLDB Journal``
