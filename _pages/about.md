@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encrypted databases especially those applying order-preserving Encryption (OPE) oblivious RAM (ORAM), and functional encryption (FE). I am concerned about the security, efficiency, and functionality of encrypted databases. My research interest includes a wide range of directions, e.g., MPC, DP, and HE. I am open to all forms of collaboration. Please feel free to reach me if I can help you.
+I am in the final year of my Ph.D. life at Zhejiang University and deeply enjoying it. I am trying to solve any interesting problems in the presence of more secure and useful database systems and also other applications. In the past four years, I learned many techniques for the goal mentioned earlier including order-preserving encryption, oblivious RAM, homomorphic encryption, and functional encryption. I like to collaborate with different people to study different problems, so please feel free to reach me if I can help you.
 
 
 # 🔥 News
@@ -36,7 +36,7 @@ I am a fourth-year Ph.D. candidate at Zhejiang University. I am working on encry
 - ``TDSC 2024`` [On the Interoperability of Encrypted Databases](https://ieeexplore.ieee.org/abstract/document/10588984), **Xinle Cao**, Jian Liu, Hao Lu, Yan Liu, Weixin Liu, Tao Wei, Kui Ren
 
 # 📖 Educations
-- *2020.09 - 2024.02 (now)*, Zhejiang University, College of Computer Science and Technology, Cyberspace Security, Ph.D. candidate.
+- *2020.09 - 2024.09 (now)*, Zhejiang University, College of Computer Science and Technology, Cyberspace Security, Ph.D. candidate.
 - *2016.09 - 2020.06*, Zhejiang University, School of Mathematics Science, Information and Computing Science, Bachelor.
 
 # 💻 Ongoing work
