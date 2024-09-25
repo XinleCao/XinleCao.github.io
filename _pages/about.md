@@ -25,7 +25,7 @@ I am in the final year of my Ph.D. life at Zhejiang University and deeply enjoyi
 - *2023.07*: &nbsp;🎉🎉 My paper "Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption" is accepted by VLDB 2023.
 
 # 📝 Publications (Conference)
-- ``Under Submission`` [Reduce Leakages in Query Processing on Encrypted Multi-dimensional Data with Practicality] **Xinle Cao**, Weiqi Feng, Quanqing Xu, Chuanhui Yang, Jian Liu, Kui Ren (Co-first author with Weiqi)
+- ``ICDE 2025 Revision`` [Reduce Leakages in Query Processing on Encrypted Multi-dimensional Data with Practicality] **Xinle Cao**, Weiqi Feng, Quanqing Xu, Chuanhui Yang, Jian Liu, Kui Ren (Co-first author with Weiqi)
 - ``VLDB 2025 Revision`` [Towards Practical Oblivious Map] **Xinle Cao**, Weiqi Feng, Jian Liu, Jinjin Zhou, Wenjing Fang, Lei Wang, Quanqing Xu, Chuanhui Yang, Kui Ren (Co-first author with Weiqi)
 - ``ICDE 2024`` [Secure and Practical Functional Dependency Discovery in Outsourced Databases](https://eprint.iacr.org/2023/1969), **Xinle Cao**, Yuhan Li, Dmytro Bogatov, Jian Liu, Kui Ren
 - ``VLDB 2023`` [Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122), **Xinle Cao**, Jian Liu, Yongsheng Shen, Xiaohua Ye, Kui Ren
