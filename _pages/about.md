@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am in the final year of my Ph.D. life at Zhejiang University and deeply enjoying it. I am trying to solve any interesting problems in the presence of more secure and useful database systems and also other applications. In the past four years, I learned many techniques for the goal mentioned earlier including order-preserving encryption, oblivious RAM, homomorphic encryption, and functional encryption. I like to collaborate with different people to study different problems, so please feel free to reach me if I can help you.
+I am in the final year of my Ph.D. life at Zhejiang University and deeply enjoying it. I am trying to solve any interesting problems in the presence of more secure and useful database systems and also other applications. In the past four years, I learned many techniques for the goal mentioned earlier including order-preserving encryption, oblivious RAM, homomorphic encryption, and functional encryption. I like to collaborate with different people to study different problems, so please feel free to reach me if I can help you. Also, I am actively finding jobs after graduation, so please get in touch with me if you have open positions.
 
 
 # 🔥 News
