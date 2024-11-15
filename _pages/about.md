@@ -20,13 +20,14 @@ I am in the final year of my Ph.D. life at Zhejiang University and deeply enjoyi
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 My paper "Towards Practical Oblivious Map" is accepted by VLDB 2025. Thanks for all my co-authors especially Weiqi and OceanBase.
 - *2024.04*: &nbsp;🎉🎉 My paper "On the Interoperability of Encrypted Databases" is accepted by TDSC 2024.
 - *2024.03*: &nbsp;🎉🎉 My paper "Secure and Practical Functional Dependency Discovery in Outsourced Databases" is accepted by ICDE 2024.
 - *2023.07*: &nbsp;🎉🎉 My paper "Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption" is accepted by VLDB 2023.
 
 # 📝 Publications (Conference)
-- ``ICDE 2025 Revision`` [Reduce Leakages in Query Processing on Encrypted Multi-dimensional Data with Practicality] **Xinle Cao**, Weiqi Feng, Quanqing Xu, Chuanhui Yang, Jian Liu, Kui Ren (Co-first author with Weiqi)
-- ``VLDB 2025 Revision`` [Towards Practical Oblivious Map](https://eprint.iacr.org/2024/1650) **Xinle Cao**, Weiqi Feng, Jian Liu, Jinjin Zhou, Wenjing Fang, Lei Wang, Quanqing Xu, Chuanhui Yang, Kui Ren (Co-first author with Weiqi)
+- ``Under Submission`` [Reduce Leakages in Query Processing on Encrypted Multi-dimensional Data with Practicality] **Xinle Cao**, Weiqi Feng, Quanqing Xu, Chuanhui Yang, Jian Liu, Kui Ren (Co-first author with Weiqi)
+- ``VLDB 2025`` [Towards Practical Oblivious Map](https://eprint.iacr.org/2024/1650), **Xinle Cao**, Weiqi Feng, Jian Liu, Jinjin Zhou, Wenjing Fang, Lei Wang, Quanqing Xu, Chuanhui Yang, Kui Ren (Co-first author with Weiqi)
 - ``ICDE 2024`` [Secure and Practical Functional Dependency Discovery in Outsourced Databases](https://eprint.iacr.org/2023/1969), **Xinle Cao**, Yuhan Li, Dmytro Bogatov, Jian Liu, Kui Ren
 - ``VLDB 2023`` [Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122), **Xinle Cao**, Jian Liu, Yongsheng Shen, Xiaohua Ye, Kui Ren
 - ``VLDB 2021`` [Cryptanalysis of An Encrypted Database in SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf), **Xinle Cao**, Jian Liu, Hao Lu, Kui Ren
@@ -62,3 +63,4 @@ Recommend some of my friends. They are talented and amazing!
 - 神探夏洛克
 - 流星
 - 度华年 （痴迷片尾曲风吹）
+- 哈利波特系列 （呜呜真好看）
