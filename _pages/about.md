@@ -20,7 +20,7 @@ I am in the final year of my Ph.D. life at Zhejiang University and deeply enjoyi
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 "Towards Practical Oblivious Map" is accepted by VLDB 2025. Thanks for all my co-authors especially Weiqi and OceanBase.
+- *2024.11*: &nbsp;🎉🎉 "Towards Practical Oblivious Map" is accepted by VLDB 2025. Thanks for all my co-authors especially Weiqi.
 - *2024.04*: &nbsp;🎉🎉 "On the Interoperability of Encrypted Databases" is accepted by TDSC 2024.
 - *2024.03*: &nbsp;🎉🎉 "Secure and Practical Functional Dependency Discovery in Outsourced Databases" is accepted by ICDE 2024.
 - *2023.07*: &nbsp;🎉🎉 "Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption" is accepted by VLDB 2023.
