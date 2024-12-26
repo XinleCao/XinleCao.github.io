@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am in the final year of my Ph.D. life at Zhejiang University and deeply enjoying it. I am trying to solve any interesting problems in the presence of more secure and useful database systems and also other applications. In the past four years, I learned many techniques for the goal mentioned earlier including order-preserving encryption, oblivious RAM, homomorphic encryption, and functional encryption. I like to collaborate with different people to study different problems, so please feel free to reach me if I can help you. **Also, I am actively finding jobs after graduation, so please get in touch with me if you have open positions.**
+I am in the final year of my Ph.D. life at Zhejiang University and I have been deeply enjoying it. I am trying to solve any interesting problems in the presence of more secure and useful database systems and also other applications. In the past four years, I have learned many techniques for the goal mentioned earlier including order-preserving encryption, oblivious RAM, homomorphic encryption, and functional encryption. I like to collaborate with different people to study different problems, so please feel free to reach me if I can help you. **Also, I am actively finding jobs after graduation, so please get in touch with me if you have open positions.**
 
 
 # 🔥 News
@@ -26,7 +26,6 @@ I am in the final year of my Ph.D. life at Zhejiang University and deeply enjoyi
 - *2023.07*: &nbsp;🎉🎉 "Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption" is accepted by VLDB 2023.
 
 # 📝 Publications (Conference)
-- ``Under Submission`` [Reduce Leakages in Query Processing on Encrypted Multi-dimensional Data with Practicality] **Xinle Cao**, Weiqi Feng, Quanqing Xu, Chuanhui Yang, Jian Liu, Kui Ren (Co-first author with Weiqi)
 - ``VLDB 2025`` [Towards Practical Oblivious Map](https://eprint.iacr.org/2024/1650), **Xinle Cao**, Weiqi Feng, Jian Liu, Jinjin Zhou, Wenjing Fang, Lei Wang, Quanqing Xu, Chuanhui Yang, Kui Ren (Co-first author with Weiqi)
 - ``ICDE 2024`` [Secure and Practical Functional Dependency Discovery in Outsourced Databases](https://eprint.iacr.org/2023/1969), **Xinle Cao**, Yuhan Li, Dmytro Bogatov, Jian Liu, Kui Ren
 - ``VLDB 2023`` [Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122), **Xinle Cao**, Jian Liu, Yongsheng Shen, Xiaohua Ye, Kui Ren
