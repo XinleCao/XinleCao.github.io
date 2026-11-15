@@ -7,7 +7,7 @@
   "role": "Researcher & joint postdoctoral researcher",
   "research_tagline": "Data security & privacy-preserving systems",
   "description": "Xinle Cao researches encrypted databases, oblivious data structures, and privacy-preserving query processing.",
-  "updated": "October 2026",
+  "updated": "November 2026",
   "bio": [
     "I am a researcher at Ant Group and a joint postdoctoral researcher with Zhejiang University. My research focuses on secure data management, particularly encrypted databases, oblivious data structures, and privacy-preserving query processing.",
     "I received my Ph.D. in Cyberspace Security from Zhejiang University in 2025, advised by Jian Liu, and my B.Sc. in Information and Computing Science from Zhejiang University in 2020. I am also interested in data security and privacy for emerging AI applications."
@@ -18,9 +18,9 @@
     {"label": "DBLP", "url": "https://dblp.org/pid/294/0551.html"}
   ],
   "news": [
+    {"date": "Oct 2026", "text": "Our paper Scope was accepted as a short paper at IEEE Big Data 2026."},
     {"date": "Sep 2026", "text": "Our work on certified adversarial detection was accepted to NDSS 2027."},
-    {"date": "Sep 2026", "text": "Selected for the 2026 CCF Doctoral Dissertation Incentive Program (Database Technical Committee recommendation)."},
-    {"date": "2026", "text": "Grove, our work on oblivious graph processing with delayed duplications, appeared in PVLDB."}
+    {"date": "Sep 2026", "text": "Selected for the 2026 CCF Doctoral Dissertation Incentive Program (Database Technical Committee recommendation)."}
   ],
   "research": [
     {"title": "Encrypted databases", "text": "Understanding information leakage and designing secure protocols for expressive queries and database maintenance."},
@@ -85,13 +85,22 @@
       "links": [{"label": "Paper", "url": "https://doi.org/10.1007/978-3-030-88428-4_31"}, {"label": "Preprint", "url": "https://eprint.iacr.org/2021/594"}]
     }
   ],
+  "preprints": [
+    {
+      "id": "tieredomap", "year": "2026", "venue": "IACR ePrint", "note": "2026/823",
+      "title": "TieredOMap: Skewness-Aware Oblivious Map",
+      "authors": ["Juan Li", "Xinle Cao", "Huazhen Yu", "Qianru Wang", "Shuyuan Zheng", "Jian Liu"],
+      "equal": [], "corresponding": ["Xinle Cao"],
+      "links": [{"label": "Preprint", "url": "https://eprint.iacr.org/2026/823"}]
+    }
+  ],
   "experience": [
     {"period": "Jul 2025 — present", "institution": "Ant Group · Zhejiang University", "detail": "Researcher at Ant Group; joint postdoctoral researcher with Zhejiang University."},
     {"period": "Sep 2020 — Jun 2025", "institution": "Zhejiang University", "detail": "Ph.D. in Cyberspace Security · Advisor: Jian Liu"},
     {"period": "Sep 2016 — Jun 2020", "institution": "Zhejiang University", "detail": "B.Sc. in Information and Computing Science"}
   ],
   "service": [
-    {"title": "Conference reviewing", "text": "VLDB 2026–2027; KDD 2025–2027."},
+    {"title": "Conference reviewing", "text": "SIGMOD 2027 Demo Track; VLDB 2026–2027; KDD 2025–2027."},
     {"title": "Journal reviewing", "text": "IEEE TKDE; IEEE TDSC; The VLDB Journal."}
   ]
 }

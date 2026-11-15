@@ -34,11 +34,33 @@ class SiteTests(unittest.TestCase):
 
     def test_all_selected_work_is_server_rendered(self):
         self.assertEqual(len(self.data['publications']), 8)
-        self.assertEqual(sum(t == 'li' and a.get('class') == 'publication' for t, a in self.elements), 8)
+        expected = len(self.data['publications']) + len(self.data.get('preprints', []))
+        self.assertEqual(sum(t == 'li' and a.get('class') == 'publication' for t, a in self.elements), expected)
         self.assertIn('Accepted', self.html)
         self.assertIn('Database Technical Committee recommendation', self.html)
         self.assertNotIn('Under Submission', self.html)
         self.assertEqual(sum(t == 'h1' for t, a in self.elements), 1)
+
+    def test_recent_updates_show_three_items(self):
+        data = copy.deepcopy(self.data)
+        data['news'].append({'date': '2020', 'text': 'Earlier announcement'})
+        result = builder.render(data)
+        parser = Elements()
+        parser.feed(result)
+        self.assertEqual(sum(t == 'div' and a.get('class') == 'news-row' for t, a in parser.elements), 3)
+        self.assertNotIn('Earlier announcement', result)
+
+    def test_preprints_use_unique_ids_and_safe_links(self):
+        data = copy.deepcopy(self.data)
+        data['preprints'][0]['id'] = data['publications'][0]['id']
+        with self.assertRaises(ValueError):
+            builder.render(data)
+        data = copy.deepcopy(self.data)
+        data['preprints'][0]['links'][0]['url'] = 'javascript:alert(1)'
+        with self.assertRaises(ValueError):
+            builder.render(data)
+        data['preprints'] = []
+        self.assertNotIn('id="preprints"', builder.render(data))
 
     def test_links_and_local_assets(self):
         ids = [a['id'] for t, a in self.elements if 'id' in a]

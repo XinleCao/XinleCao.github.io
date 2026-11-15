@@ -6,6 +6,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
+RECENT_UPDATE_LIMIT = 3
 ALLOWED_HOSTS = {
     'scholar.google.com', 'github.com', 'dblp.org', 'arxiv.org',
     'eprint.iacr.org', 'www.vldb.org', 'doi.org', 'ieeexplore.ieee.org',
@@ -40,7 +41,10 @@ def validate(data):
     if any(not isinstance(p, str) for p in data['bio']):
         raise ValueError('Biography paragraphs must be text')
     ids = set()
-    for p in data['publications']:
+    preprints = data.get('preprints', [])
+    if not isinstance(preprints, list):
+        raise ValueError('Preprints must be a list')
+    for p in data['publications'] + preprints:
         if not re.fullmatch('[a-z][a-z0-9-]*', p['id']) or p['id'] in ids:
             raise ValueError('Duplicate or unsafe publication ID')
         ids.add(p['id'])
@@ -93,9 +97,16 @@ def render(data):
     email = escape(data['email'], quote=True)
     biography = '\n'.join(f'<p class="bio">{advisor_text(p, data["advisor"])}</p>' for p in data['bio'])
     links = ''.join(link(item) for item in data['links'])
-    news = '\n'.join(f'<div class="news-row"><time>{escape(n["date"])}</time><p>{escape(n["text"])}</p></div>' for n in data['news'])
+    news = '\n'.join(f'<div class="news-row"><time>{escape(n["date"])}</time><p>{escape(n["text"])}</p></div>' for n in data['news'][:RECENT_UPDATE_LIMIT])
     research = '\n'.join(f'<article><h3>{escape(r["title"])}</h3><p>{escape(r["text"])}</p></article>' for r in data['research'])
     publications = '\n'.join(publication(p, data['name']) for p in data['publications'])
+    preprints = ''
+    if data.get('preprints'):
+        entries = '\n'.join(publication(p, data['name']) for p in data['preprints'])
+        preprints = f'''<section class="section" id="preprints" aria-labelledby="preprints-title">
+      <div class="section-heading"><h2 id="preprints-title">Preprints</h2><p>† Corresponding author</p></div>
+      <ol class="publications">{entries}</ol>
+    </section>'''
     experience = '\n'.join(f'<article class="experience-item"><time>{escape(e["period"])}</time><h3>{escape(e["institution"])}</h3><p>{advisor_text(e["detail"], data["advisor"])}</p></article>' for e in data['experience'])
     service = '\n'.join(f'<article class="service-item"><h3>{escape(s["title"])}</h3><p>{escape(s["text"])}</p></article>' for s in data['service'])
     return f'''<!doctype html>
@@ -116,8 +127,8 @@ def render(data):
     <div class="wrap header-inner">
       <a class="wordmark" href="#about">{name}</a>
       <nav aria-label="Main navigation">
-        <a href="#about">About</a><a href="#research">Research</a>
-        <a href="#publications">Publications</a><a href="#experience">Experience</a>
+        <a href="#about">About</a><a href="#publications">Publications</a>
+        <a href="#research">Research</a><a href="#experience">Experience</a>
         <a href="#service">Service</a>
       </nav>
     </div>
@@ -129,24 +140,25 @@ def render(data):
         <h1 id="profile-title">{name}<span class="name-zh" lang="zh-Hans">{escape(data['name_zh'])}</span></h1>
         <p class="position">{escape(data['role'])}</p>
         <p class="affiliation">{escape(data['affiliation'])}</p>
-        {biography}
       </div>
-      <aside class="profile-aside" aria-label="Profile photograph and academic links">
+      <div class="profile-aside">
         <img class="portrait" src="assets/portrait.png" width="190" height="190" alt="Xinle Cao’s original profile photograph" fetchpriority="high">
-        <div class="profile-links"><a class="email" href="mailto:{email}">{email}</a>{links}</div>
-      </aside>
+        <div class="profile-links" role="group" aria-label="Academic links"><a class="email" href="mailto:{email}">{email}</a>{links}</div>
+      </div>
+      <div class="profile-bio">{biography}</div>
     </section>
     <section class="news" aria-labelledby="news-title">
       <h2 id="news-title">Recent updates</h2>
       {news}
     </section>
-    <section class="section" id="research" aria-labelledby="research-title">
-      <div class="section-heading"><h2 id="research-title">Research interests</h2></div>
-      <div class="research-grid">{research}</div>
-    </section>
     <section class="section" id="publications" aria-labelledby="publications-title">
       <div class="section-heading"><h2 id="publications-title">Selected publications</h2><p>* Equal contribution · † Corresponding author</p></div>
       <ol class="publications">{publications}</ol>
+    </section>
+    {preprints}
+    <section class="section" id="research" aria-labelledby="research-title">
+      <div class="section-heading"><h2 id="research-title">Research interests</h2></div>
+      <div class="research-grid">{research}</div>
     </section>
     <div class="lower-grid">
       <section class="section" id="experience" aria-labelledby="experience-title">
