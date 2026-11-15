@@ -1,0 +1,97 @@
+{
+  "name": "Xinle Cao",
+  "name_zh": "曹新乐",
+  "email": "xinle@zju.edu.cn",
+  "advisor": {"label": "Jian Liu", "url": "https://jianliu.phd/"},
+  "affiliation": "Ant Group · Zhejiang University",
+  "role": "Researcher & joint postdoctoral researcher",
+  "research_tagline": "Data security & privacy-preserving systems",
+  "description": "Xinle Cao researches encrypted databases, oblivious data structures, and privacy-preserving query processing.",
+  "updated": "October 2026",
+  "bio": [
+    "I am a researcher at Ant Group and a joint postdoctoral researcher with Zhejiang University. My research focuses on secure data management, particularly encrypted databases, oblivious data structures, and privacy-preserving query processing.",
+    "I received my Ph.D. in Cyberspace Security from Zhejiang University in 2025, advised by Jian Liu, and my B.Sc. in Information and Computing Science from Zhejiang University in 2020. I am also interested in data security and privacy for emerging AI applications."
+  ],
+  "links": [
+    {"label": "Google Scholar", "url": "https://scholar.google.com/citations?user=2JKA6WAAAAAJ&hl=en"},
+    {"label": "GitHub", "url": "https://github.com/XinleCao"},
+    {"label": "DBLP", "url": "https://dblp.org/pid/294/0551.html"}
+  ],
+  "news": [
+    {"date": "Sep 2026", "text": "Our work on certified adversarial detection was accepted to NDSS 2027."},
+    {"date": "Sep 2026", "text": "Selected for the 2026 CCF Doctoral Dissertation Incentive Program (Database Technical Committee recommendation)."},
+    {"date": "2026", "text": "Grove, our work on oblivious graph processing with delayed duplications, appeared in PVLDB."}
+  ],
+  "research": [
+    {"title": "Encrypted databases", "text": "Understanding information leakage and designing secure protocols for expressive queries and database maintenance."},
+    {"title": "Oblivious data structures", "text": "Making access-pattern protection practical through efficient ORAM, oblivious maps, and graph processing."},
+    {"title": "Data security for AI", "text": "Exploring privacy-preserving retrieval and secure data access for AI systems, alongside work on model security."}
+  ],
+  "publications": [
+    {
+      "id": "ndss2027", "year": "2027", "venue": "NDSS", "note": "Accepted",
+      "title": "Adversarial Detection for Pre-trained Classifiers via Lipschitz-Margin Analysis with Certification",
+      "authors": ["Rui Zhang", "Xinle Cao", "Huazhen Yu", "Jian Liu", "Youwen Zhu"],
+      "equal": [], "corresponding": [],
+      "links": [{"label": "Preprint", "url": "https://arxiv.org/abs/2610.15359"}]
+    },
+    {
+      "id": "grove", "year": "2026", "venue": "VLDB", "note": "PVLDB 19(8)",
+      "title": "Enabling Index-free Adjacency in Oblivious Graph Processing with Delayed Duplications",
+      "authors": ["Weiqi Feng", "Xinle Cao", "Adam O'Neill", "Chuanhui Yang"],
+      "equal": [], "corresponding": ["Xinle Cao"],
+      "links": [{"label": "Paper", "url": "https://doi.org/10.14778/3811243.3811255"}, {"label": "Code", "url": "https://github.com/WeiqiNs/DAORAM"}]
+    },
+    {
+      "id": "omap", "year": "2025", "venue": "VLDB", "note": "PVLDB 18(3)",
+      "title": "Towards Practical Oblivious Map",
+      "authors": ["Xinle Cao", "Weiqi Feng", "Jian Liu", "Jinjin Zhou", "Wenjing Fang", "Lei Wang", "Quanqing Xu", "Chuanhui Yang", "Kui Ren"],
+      "equal": ["Xinle Cao", "Weiqi Feng"], "corresponding": [],
+      "links": [{"label": "Paper", "url": "https://www.vldb.org/pvldb/vol18/p688-liu.pdf"}, {"label": "Code", "url": "https://github.com/WeiqiNs/DAORAM"}]
+    },
+    {
+      "id": "interoperability", "year": "2024", "venue": "IEEE TDSC", "note": "Early access",
+      "title": "On the Interoperability of Encrypted Databases",
+      "authors": ["Xinle Cao", "Jian Liu", "Hao Lu", "Yan Liu", "Weixin Liu", "Tao Wei", "Kui Ren"],
+      "equal": [], "corresponding": [],
+      "links": [{"label": "Paper", "url": "https://ieeexplore.ieee.org/document/10588984"}]
+    },
+    {
+      "id": "fd", "year": "2024", "venue": "ICDE", "note": "",
+      "title": "Secure and Practical Functional Dependency Discovery in Outsourced Databases",
+      "authors": ["Xinle Cao", "Yuhan Li", "Dmytro Bogatov", "Jian Liu", "Kui Ren"],
+      "equal": [], "corresponding": [],
+      "links": [{"label": "Paper", "url": "https://doi.org/10.1109/ICDE60146.2024.00134"}, {"label": "Preprint", "url": "https://eprint.iacr.org/2023/1969"}]
+    },
+    {
+      "id": "frequency", "year": "2023", "venue": "VLDB", "note": "PVLDB 16(11)",
+      "title": "Frequency-Revealing Attacks against Frequency-Hiding Order-Preserving Encryption",
+      "authors": ["Xinle Cao", "Jian Liu", "Yongsheng Shen", "Xiaohua Ye", "Kui Ren"],
+      "equal": [], "corresponding": [],
+      "links": [{"label": "Paper", "url": "https://eprint.iacr.org/2023/1122"}, {"label": "Code", "url": "https://github.com/XinleCao/Frequency-revealing-Attack"}]
+    },
+    {
+      "id": "cryptanalysis", "year": "2021", "venue": "VLDB", "note": "PVLDB 14(10)",
+      "title": "Cryptanalysis of An Encrypted Database in SIGMOD '14",
+      "authors": ["Xinle Cao", "Jian Liu", "Hao Lu", "Kui Ren"],
+      "equal": [], "corresponding": [],
+      "links": [{"label": "Paper", "url": "https://www.vldb.org/pvldb/vol14/p1743-liu.pdf"}]
+    },
+    {
+      "id": "zkcmp", "year": "2021", "venue": "ESORICS", "note": "",
+      "title": "Zero Knowledge Contingent Payments for Trained Neural Networks",
+      "authors": ["Zhelei Zhou", "Xinle Cao", "Jian Liu", "Bingsheng Zhang", "Kui Ren"],
+      "equal": ["Zhelei Zhou", "Xinle Cao"], "corresponding": [],
+      "links": [{"label": "Paper", "url": "https://doi.org/10.1007/978-3-030-88428-4_31"}, {"label": "Preprint", "url": "https://eprint.iacr.org/2021/594"}]
+    }
+  ],
+  "experience": [
+    {"period": "Jul 2025 — present", "institution": "Ant Group · Zhejiang University", "detail": "Researcher at Ant Group; joint postdoctoral researcher with Zhejiang University."},
+    {"period": "Sep 2020 — Jun 2025", "institution": "Zhejiang University", "detail": "Ph.D. in Cyberspace Security · Advisor: Jian Liu"},
+    {"period": "Sep 2016 — Jun 2020", "institution": "Zhejiang University", "detail": "B.Sc. in Information and Computing Science"}
+  ],
+  "service": [
+    {"title": "Conference reviewing", "text": "VLDB 2026–2027; KDD 2025–2027."},
+    {"title": "Journal reviewing", "text": "IEEE TKDE; IEEE TDSC; The VLDB Journal."}
+  ]
+}

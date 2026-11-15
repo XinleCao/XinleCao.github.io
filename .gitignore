@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+tmp/
+*.log
+/STATUS.md
+/LOCAL_NOTES.md
+.env
+.env.*
+*.zip
